@@ -1,0 +1,2 @@
+generate the ssh key gen and go to settings in github and add ssh key into github
+then clone the git clone and github ssh
